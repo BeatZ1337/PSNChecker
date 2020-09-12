@@ -1,0 +1,116 @@
+/* 
+* PSNChecker Custom CSS 1.0.0 by @APIDepartment - https://twitter.com/APIDepartment 
+* License - GNU GENERAL PUBLIC LICENSE (GPL-3.0) 
+* PSNChecker.com Copyright (C) 2020 Mr. Cerberus, SamModzHD, Thunder & Cocaine 
+* This css is free: you can redistribute it and/or modify 
+* it under the terms of the GNU General Public License as published by 
+* the Free Software Foundation, either version 3 of the License, or 
+* (at your option) any later version. 
+* 
+* This CSS is distributed in the hope that it will be useful, 
+* but WITHOUT ANY WARRANTY; without even the implied warranty of 
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+* See the GNU General Public License for more details. 
+* 
+* You should have received a copy of the GNU General Public License
+* along with this css file. If not, see <https://www.gnu.org/licenses/>. 
+*/
+
+.stats-panel {
+  height: 150px;
+  padding: 5px;
+  margin-bottom: 20px;
+  background-color: #222;
+  border-radius: 3px;
+  border: 1px solid #525252;
+  box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+  -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+  -moz-box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+}
+.col-sm-3 {
+  width: 33.33%;
+}
+.captcha-group {
+  position: relative;
+  /* display: table; */
+  border-collapse: separate;
+}
+.rounded-circle{
+  border-radius:50% !important
+}
+  .tweet-button {
+    display: inline-block;
+    width: 55px;
+    height: 21px;
+    background-image: url(https://platform.twitter.com/widgets/images/tweet.dfbf1dd98bad9f5b5addd80494650dca.png);
+    background-position: 0 0;
+  }
+  .tweet-button:hover {
+    background-position: 0 -21px;
+  }
+ .navbar-default {
+  background-color: #505050;
+  border-color: #000000;
+}
+.panel {
+  padding: 15px;
+  margin-bottom: 20px;
+  background-color: #222;
+  border-radius: 3px;
+  border: 1px solid #525252;
+  box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+  -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+  -moz-box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+}
+.project {
+  padding: 1px;
+  margin-bottom: 20px;
+  background-color: #222;
+  border-radius: 3px;
+  border: 1px solid #525252;
+  box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+  -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+  -moz-box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+}
+body {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #fff;
+  background-color: #222;
+}
+.panel-heading {
+  padding: 1px 1px; 
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.alert {
+  width:40%;
+  padding: 5px;
+  margin-bottom: 20px;
+  border: 1px solid #525252;
+  box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+  -webkit-box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+  -moz-box-shadow: 0 0 4px 1px rgba(0,0,0,0.08);
+  border-radius: 4px;
+}
+/* 
+* PSNChecker Custom CSS 1.0.0 by @APIDepartment - https://twitter.com/APIDepartment 
+* License - GNU GENERAL PUBLIC LICENSE (GPL-3.0) 
+* PSNChecker.com Copyright (C) 2020 Mr. Cerberus, SamModzHD, Thunder & Cocaine 
+* This css is free: you can redistribute it and/or modify 
+* it under the terms of the GNU General Public License as published by 
+* the Free Software Foundation, either version 3 of the License, or 
+* (at your option) any later version. 
+* 
+* This CSS is distributed in the hope that it will be useful, 
+* but WITHOUT ANY WARRANTY; without even the implied warranty of 
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. 
+* See the GNU General Public License for more details. 
+* 
+* You should have received a copy of the GNU General Public License
+* along with this css file. If not, see <https://www.gnu.org/licenses/>. 
+*/

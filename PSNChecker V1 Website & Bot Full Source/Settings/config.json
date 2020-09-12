@@ -1,0 +1,19 @@
+{
+   "token": "",
+   "prefix": "^",
+   "footerIMG": "https://i.imgur.com/r5xWJT1.png",
+   "debugMode": false,
+   "commandNotFound": true,
+   "disabled": false,
+   "clientId": "",
+   "developers": [ "", "" ],
+   "botLogo": "https://i.imgur.com/r5xWJT1.png",
+   "webserver":{
+      "port":"3001",
+      "auth_token":""
+   },
+   "recaptcha":{
+      "Site_Key":"",
+      "Secret_Key":""
+   } 
+}
